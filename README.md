@@ -50,6 +50,7 @@ This repository contains two Python scripts, each designed to enhance your chess
    python main.py
    ```
 ## 🛠️ Example Usage
+![image](board.png)
 
 *Sample usage and output examples will be added soon.*
 
